@@ -19,7 +19,7 @@ Open Settings > Mail > Add Account > Other > Add Mail Account, then you'll need 
 **IMAP**:
 
 Incoming Mail Server  
-**Host Name**: [i](http://mail.yourdomain.com/)map.stackmail.com  
+**Host Name**: imap.stackmail.com  
 **Username**: example@yourdomain.com  
 **Password**: Mailbox Password
 
@@ -41,5 +41,3 @@ If you are getting constant popup messages about "verifying server identity" - f
 Remove the account from all effected Apple devices
 
 Re add the accounts as required in line with the details shown above.
-
-If you have any further trouble with email accounts, please [raise a support ticket](https://jira.dswebsites.co.uk/servicedesk/customer/portal/4/create/49).
