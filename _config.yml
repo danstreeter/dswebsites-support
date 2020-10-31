@@ -33,6 +33,7 @@ permalink: /:categories/:title:output_ext
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -54,3 +55,5 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - SCRATCH/
+
+google_analytics: "G-RTX8B2KCRS"
