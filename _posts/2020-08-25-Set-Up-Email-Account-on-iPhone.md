@@ -11,8 +11,8 @@ Step-by-step guide
 
 Open Settings > Mail > Add Account > Other > Add Mail Account, then you'll need to fill the right configurations for you mailbox:
 
-**Name**: _Anything_
-**Email**: [example@yourdomain.com](mailto:example@yourdomain.com)  
+**Name**: _Anything_  
+**Email**: example@yourdomain.com  
 **Password**: Mailbox Password  
 **Description**: Work, Business...etc
 
