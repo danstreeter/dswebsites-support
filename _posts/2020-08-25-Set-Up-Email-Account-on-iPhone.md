@@ -20,12 +20,12 @@ Open Settings > Mail > Add Account > Other > Add Mail Account, then you'll need 
 
 Incoming Mail Server  
 **Host Name**: imap.stackmail.com  
-**Username**: example@yourdomain.com  
+**Username**: example@yourdomain.com _(this should be your own email address)_  
 **Password**: Mailbox Password
 
 Outgoing Mail Server  
 **Host Name**: smtp.stackmail.com  
-**Username**: example@yourdomain.com  
+**Username**: example@yourdomain.com _(this should be your own email address)_  
 **Password**: Mailbox Password
 
 Click on save
