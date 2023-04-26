@@ -27,7 +27,7 @@ If automatic setup failed, you can choose Manual setup or additional server typ
 **Outgoing mail server:** [smtp.stackmail.com](http://smtp.stackmail.com/).  
 **Incoming server port (IMAP):** 993  
 **Use the following type of encrypted connection:** SSL  
-**Outgoing server port (SMTP):** 587  
+**Outgoing server port (SMTP):** 465 (or 587)  
 **Use the following type of encrypted connection:** TLS
 
 When setting up your account, please choose More Settings > Outgoing Server and check the box for 'My outgoing server (SMTP) requires authentication'.
