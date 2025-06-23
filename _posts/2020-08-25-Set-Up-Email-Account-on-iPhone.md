@@ -9,7 +9,9 @@ Once you have your email account, you may want to set it up on your iPhone.
 Step-by-step guide
 ------------------
 
-Open Settings > Mail > Add Account > Other > Add Mail Account, then you'll need to fill the right configurations for you mailbox:
+Open `Settings` > `Apps` > `Mail` > `Mail Accounts` > `Add Account` > `Other` > `Add Mail Account`, then you'll need to fill the right configurations for you mailbox:
+
+*On older versions of iOS this option is within `Settings` > `Mail` > `Add Account`.*
 
 **Name**: _Anything_  
 **Email**: example@yourdomain.com  
